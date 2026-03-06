@@ -36,7 +36,7 @@ This project was developed as **Task 1** of the Python Programming Internship at
 - ❌ Delete tasks from the list
 - 💾 Tasks are saved using file handling so they persist after closing the program
 - ⚡ Simple and easy-to-use interface
----
+
 
 ## 🧠 Concepts Used
 
@@ -49,7 +49,7 @@ This project was developed as **Task 1** of the Python Programming Internship at
 - Conditional Statements (if-else)
 
 - Exception Handling (try-except)
----
+
 
 ## ⚙️ How to Run
 
@@ -85,7 +85,7 @@ A simple command-line **Calculator Application** built using Python.
 The program allows users to perform basic arithmetic operations such as **addition, subtraction, multiplication, and division**.
 
 This project was developed as **Task 2** for the Python Programming Internship at CodSoft.
----
+
 
 ## ✨ Features
 - ➕ Perform Addition
@@ -105,7 +105,7 @@ This project was developed as **Task 2** for the Python Programming Internship a
 - 🔁 Supports multiple calculations
 
 - ❌ Option to exit the program
----
+
 
 ## 🧠 Concepts Used
 
@@ -121,7 +121,6 @@ This project was developed as **Task 2** for the Python Programming Internship a
 
 - ⚠ Division by zero protection
 
----
 
 ## ⚙️ How to Run
 
@@ -148,6 +147,7 @@ Enter choice: 1
 
 Result: 15
 
+---
 
 # 🔐 Task 3 -- Password Generator 
 ## 📌 Overview
@@ -190,6 +190,8 @@ Generated Password: A7!xP3@dQ9
 ### 2. Run the program
 	python password_generator.py
 
+---
+
 
 
 # 🎮 Task 4 -- Rock-Paper-Scissors Game 
@@ -209,7 +211,7 @@ This project allows the user to play against the computer while tracking scores 
 - Option to **play again or exit**  
 - Simple **command-line interface**  
 
----
+
 
 ## 🧠 Concepts Applied
 
@@ -244,6 +246,7 @@ Thanks for playing! Final Score -> You: 1 | Computer: 0
 ### 2. Run the program
 	python rock_paper_scissors.py
 
+---
 
 
 # 📇 Task 5 -- Contact Book Application 
@@ -263,7 +266,7 @@ This project allows users to manage contacts by adding, viewing, searching, upda
 - 🗑️ Delete a contact  
 - 🖥️ Interactive command-line interface with clear prompts and feedback  
 
----
+
 
 ## 🧠 Concepts Applied
 
