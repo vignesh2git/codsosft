@@ -73,6 +73,7 @@ This project was developed as **Task 1** of the Python Programming Internship at
 Enter your choice: 1
 Enter task: Complete Python assignment
 Task added successfully!
+
 ---
 
 
@@ -147,7 +148,6 @@ Enter choice: 1
 
 Result: 15
 
-===================================================================================================================================================
 
 # 🔐 Task 3 -- Password Generator 
 ## 📌 Overview
@@ -190,14 +190,14 @@ Generated Password: A7!xP3@dQ9
 ### 2. Run the program
 	python password_generator.py
 
-===================================================================================================================================================
+
 
 # 🎮 Task 4 -- Rock-Paper-Scissors Game 
 ## 📌 Overview
 
 An interactive **Rock-Paper-Scissors** game built using Python.  
 This project allows the user to play against the computer while tracking scores over multiple rounds.
----
+
 
 ## 🚀 Features
 
@@ -244,7 +244,6 @@ Thanks for playing! Final Score -> You: 1 | Computer: 0
 ### 2. Run the program
 	python rock_paper_scissors.py
 
-===================================================================================================================================================
 
 
 # 📇 Task 5 -- Contact Book Application 
@@ -253,7 +252,7 @@ Thanks for playing! Final Score -> You: 1 | Computer: 0
 
 A simple **Contact Book** built using Python.  
 This project allows users to manage contacts by adding, viewing, searching, updating, and deleting them through a user-friendly command-line interface.
----
+
 
 ## 🚀 Features
 
