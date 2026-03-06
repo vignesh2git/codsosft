@@ -5,6 +5,13 @@ Each project demonstrates practical Python skills, problem-solving, and hands-on
 
 ---
 
+## 👨‍💻 About This Repository
+
+This repository contains all the Python projects and tasks completed during my Python Programming Internship at CodSoft.These tasks were designed to progressively strengthen programming fundamentals.
+
+All projects focus on core Python concepts, data structures, file handling, user input validation, and creating command-line applications.
+
+
 ## 📁 Project Overview
 
 | Task | Project | Description | Key Concepts |
@@ -304,3 +311,23 @@ Contact 'John Doe' added successfully!
 	cd Task5_Contact_Book
 ### 2. Run the program
 	python python contact_book.py
+---
+
+
+## 🛠 Technologies Used
+
+- Python 3 – Core programming language
+- Random module  
+- Loops and conditionals  
+- Input validation and control flow  
+
+
+
+---
+
+## ⚙️Full project How to Run
+
+1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/your-username/rock-paper-scissors.git
